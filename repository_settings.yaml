@@ -40,6 +40,9 @@ labels:
 
   - name: ml
     color: 073e48
+    
+  - name: medical
+    color: cc0000
 
   - name: infra
     color: 878ad3
