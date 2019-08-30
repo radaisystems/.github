@@ -39,39 +39,39 @@ labels:
   # Teams/Groups
 
   - name: ml
-    color: db5cb3
+    color: 073e48
 
   - name: infra
-    color: db5cb3
+    color: 878ad3
 
   - name: dev
     color: aaffe0
 
   - name: it
-    color: db5cb3
+    color: 4e70dc
 
   # Useful labels
 
   - name: security
-    color: db5cb3
+    color: d23835
 
   - name: cleanup
-    color: db5cb3
+    color: 8ef27f
 
   - name: refactor
-    color: db5cb3
+    color: 951aed
 
   - name: reusability
-    color: db5cb3
+    color: 'ed6949'
 
   - name: reproducibility
-    color: db5cb3
+    color: d928c1
 
   - name: monitoring
-    color: db5cb3
+    color: 56e913
 
   - name: stability
-    color: db5cb3
+    color: 2950cc
 
   - name: needs discussion
     color: 'e08155'
