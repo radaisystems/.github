@@ -38,6 +38,9 @@ labels:
 
   # Teams/Groups
 
+  - name: biz
+    color: 00cc00
+
   - name: ml
     color: 073e48
     
