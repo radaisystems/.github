@@ -14,7 +14,7 @@ issues:
   project_autoassign:
     organization: true
     name: Rad AI
-    card: New Issues and Tasks
+    column: New Issues and Tasks
 
 
 labels_clean: true
