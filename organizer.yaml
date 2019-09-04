@@ -20,6 +20,10 @@ issues:
 labels_clean: true
 labels:
 
+  - name: critical
+    description: 'Needs to be addressed as a top priority'
+    color: ff0000
+
   - name: bug
     description: ''
     color: d73a4a
