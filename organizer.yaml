@@ -108,3 +108,6 @@ labels:
 
   - name: needs discussion
     color: 'e08155'
+
+  - name: technical debt
+    color: d73a4a
