@@ -111,3 +111,7 @@ labels:
 
   - name: technical debt
     color: d73a4a
+
+  - name: t4u core
+    description: 'Any issue that requires changing the tensor4u.core module'
+    color: f5d687
