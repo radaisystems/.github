@@ -67,18 +67,75 @@ labels:
 
   - name: biz
     color: 00cc00
+    repos:
+      - bizniss
 
   - name: ml
     color: 073e48
+    repos:
+      - tensor4u
+      - themisto
+      - callisto_postproc
+      - truecaser
+      - callisto_ml
+      - logger
+      - ng_arch
+      - t4u_models
+      - tensor2tensor
+      - transformer_xl
+      - ontologicator
+      - skeletor
+      - syntheticator
+      - pointer-generator
     
   - name: medical
     color: cc0000
+    repos:
+      - deidentification_cli
+      - sample_reports
 
   - name: infra
     color: 878ad3
+      - infra_terraform_io_api
+      - infra_terraform_io_secure
+      - infra_amis_io
+      - callisto_ml_serving
+      - infra_terraform_model_storage
+      - callisto_ml_nonsense_serving
+      - nginx_container
+      - PuppetMaster
+      - BaseBoxes
+      - inference_containers
+      - docker-tensorflow-serving-fastapi
+      - infra_terraform_modules
+      - terraform_infra_core
+      - atlantis
+      - infra_terraform_init
+      - terraform_infra_sftp
+      - nlm-scrubber-docker
+      - ec2_scheduler
+      - infra_terraform_luna
+      - infra_lambdas
+      - gitBackUpStack
+      - ldapBackupStack
+      
 
   - name: dev
     color: aaffe0
+      - callisto_integration
+      - io_api
+      - europa
+      - amalthea
+      - amalthealib
+      - io_demo
+      - electron-mocks
+      - dicom_proxy
+      - juno
+      - junolib
+      - scripts
+      - www.radai.com
+
+      
 
   - name: it
     color: 4e70dc
