@@ -96,6 +96,7 @@ labels:
 
   - name: infra
     color: 878ad3
+    repos:
       - infra_terraform_io_api
       - infra_terraform_io_secure
       - infra_amis_io
@@ -122,6 +123,7 @@ labels:
 
   - name: dev
     color: aaffe0
+    repos:
       - callisto_integration
       - io_api
       - europa
