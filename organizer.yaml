@@ -30,6 +30,10 @@ labels:
     description: "Something isn't working"
     color: d73a4a
 
+  - name: chore
+    description: "Tasks outside of direct code changes"
+    color: 3366ff
+
   - name: documentation
     description: 'Improvements or additions to documentation'
     color: 0075ca
@@ -87,7 +91,7 @@ labels:
       - skeletor
       - syntheticator
       - pointer-generator
-    
+
   - name: medical
     color: cc0000
     repos:
@@ -119,12 +123,11 @@ labels:
       - infra_lambdas
       - gitBackUpStack
       - ldapBackupStack
-      
+
 
   - name: dev
     color: aaffe0
     repos:
-      - callisto_integration
       - io_api
       - europa
       - amalthea
@@ -138,7 +141,11 @@ labels:
       - www.radai.com
       - hubble
 
-      
+  - name: integration
+    color: ffdb4d
+    repos:
+      - callisto_integration
+      - callisto.js
 
   - name: it
     color: 4e70dc
