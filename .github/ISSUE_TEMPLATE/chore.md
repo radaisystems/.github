@@ -22,4 +22,4 @@ Add any other context or screenshots about the feature request here.
 **Developer checklist**
 What are the specific deliverables or action items that need to be completed? Once these items are all checked off the issue will be considered complete.
 
-- []
+- [ ]

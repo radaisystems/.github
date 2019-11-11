@@ -22,7 +22,7 @@ Add any other context or screenshots about the feature request here.
 **Developer checklist**
 Break up the above feature request into a list of requirements. Some default options have been supplied, but issue specific items should be added by the person who opens the ticket. Once these items are all checked off the issue will be considered complete.
 
-- [] Has the new functionality been documented?
-- [] Has the new functionality been tested?
-- [] If there were UI changes have screenshots or video been posted for review?
-- [] Has the person who opened the feature request signed off that it is complete?
+- [ ] Has the new functionality been documented?
+- [ ] Has the new functionality been tested?
+- [ ] If there were UI changes have screenshots or video been posted for review?
+- [ ] Has the person who opened the feature request signed off that it is complete?
