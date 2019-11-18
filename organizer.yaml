@@ -91,6 +91,7 @@ labels:
       - skeletor
       - syntheticator
       - pointer-generator
+      - ml-meta
 
   - name: medical
     color: cc0000
