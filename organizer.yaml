@@ -66,6 +66,20 @@ labels:
     description: "This will not be worked on"
     color: ffffff
 
+  - name: rewrite_issue
+    description: "This issue needs to be rewritten"
+    color: ffffff
+
+  - name: api_migration
+    description: "This issue will be resolved with the api migration"
+    color: 207a93
+
+  - name: dot_net_migration
+    description: "This issue will be resolved as part of the .Net migration"
+    color: d4c5f9
+
+
+
 
   # Teams/Groups
 
