@@ -37,9 +37,15 @@ repositories:
       master:
         enforce_admins: true
         required_pull_request_reviews: true
+        required_status_checks:
+          strict: true
       main:
         enforce_admins: true
         required_pull_request_reviews: true
+        required_status_checks:
+          strict: true
       prod:
         enforce_admins: true
         required_pull_request_reviews: true
+        required_status_checks:
+          strict: true        
