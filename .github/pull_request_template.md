@@ -10,4 +10,4 @@
 ## Requirements
 <!-- Requirement reminders for submitting a PR. All of these boxes should be checked after submitter has confirmed them. -->
 * [ ] A Linear ticket included in the PR title
-* [ ] Tests added or updated to cover the included code changes
+* [ ] Tests added, updated, or confirmed to cover the included code changes
