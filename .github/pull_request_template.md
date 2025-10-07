@@ -3,7 +3,7 @@
 
 ## Change Type
 <!-- Select the type of change(s) this PR makes. This should be generally related to semantic versioning standards using x.x.x format. -->
-* [ ] Bugfix
+* [ ] Patch/Bugfix
 * [ ] New Feature
 * [ ] Breaking Change
 
